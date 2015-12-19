@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-tags: [about, Jekyll, theme, responsive]
+title: Activities
+tags: [activities, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -10,7 +10,12 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a firm believer in the power of technology to build impactful products. As a full-stack developer with an entrepreneurial spirit, I strive to learn everyday, and excel in goal-oreinted work environments.
+###Project One###
+
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
 
 <!-- ## Minimal Mistakes is all about:
 
@@ -22,7 +27,11 @@ I am a firm believer in the power of technology to build impactful products. As 
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments -->
 
-<!-- RESUME goes below -->
+<!-- RESUME
+<h3><a href="resume.pdf">Resume</a><h3> -->
+
+<a href='http://sola-afghanistan.org' target='_blank'>SOLA</a> <br> <a href='https://washezi.com' target='_blank'>Washezi</a>
+
 
 
 <!-- <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a> -->
