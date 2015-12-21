@@ -13,9 +13,9 @@
 #   url: http://mademistakes.com
 - title: Portfolio
   url: /portfolio/
-
-- title: Activities
-  url: /activities/
+# 
+# - title: Activities
+#   url: /activities/
 
 - title: Publications
   url: /publications/
