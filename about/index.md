@@ -11,7 +11,9 @@ image:
 ---
 
 I am a firm believer in the power of technology to build impactful products. As a full-stack developer with an entrepreneurial spirit, I strive to learn everyday, and I excel in goal-oreinted work environments.
-<br>
+<h3> Resume:
+<a href="/images/resume.pdf">click to view</a>
+</h3>
 <h3> Technologies I know: </h3>
 <p>
 <strong> Languages & Frameworks:</strong>
@@ -21,7 +23,7 @@ MEAN Stack | Ruby | JavaScript | Ruby on Rails | jQuery | Sinatra | JSON | AJAX 
 <hr>
 <strong> Databases:</strong>  SQL | PostgreSQL | MongoDB
 <hr>
-<strong> Management & Deployment:</strong>  	CLI | Git | Github | RSpec | | Jasmine | Heroku  
+<strong> Management & Deployment:</strong>  	CLI | Git | Github | RSpec | Jasmine | Heroku  
 <hr>
 <strong> Foreign Languages:</strong>  Pashto | Urdu | Hindi | Proficiency in Persian | Basic Arabic
 
