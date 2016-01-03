@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a firm believer in the power of technology to build impactful products. As a full-stack developer with an entrepreneurial spirit, I strive to learn something new everyday, and I excel in goal-oreinted work environments.
+I am a full-stack developer with an entrepreneurial spirit and background in economics. I am a firm believer in the power of technology to build impactful products.
 <h3> Resume:
 <a href="/images/resume.pdf">click to view</a>
 </h3>
