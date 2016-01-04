@@ -33,7 +33,7 @@ git log
 {% endhighlight %}
 
 #### Undo Changes
-A `VCS` is useless if it cannot undo committed and untracked changes to to a file or project.
+A `VCS` is useless if it cannot undo committed and untracked changes to a file or project.
 
 * View a previous commit
 * Undo a commit by applying a new commit
