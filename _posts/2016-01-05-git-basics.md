@@ -21,7 +21,7 @@ Below is all you need to start using Git to manage your own small projects and f
 * Create a Git repository in the current folder
 * View status of each file in a repository
 * Stage new changes for commit
-* Commit the staged changes along a descriptive message
+* Commit the staged changes along with a descriptive message
 * View commit history
 
 {% highlight html %}
@@ -67,7 +67,7 @@ git branch
 {% endhighlight %}
 
 #### Remotes
-A Git remote repository lives on a server. It could be your repository or someone else's. You can push changes to it as well as pull changes from it to update your local repository.
+A Git remote repository lives on a server. It could be your repository or someone else's. You can push changes to it as well as pull changes from it to update your local repository. Remotes are how teams and developers collaborate with each other.
 
 * Create a copy of a remote Git repository in your local machine
 * List all remote repositories
