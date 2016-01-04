@@ -9,7 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-> Now and then, I write about topics pertaining to economic development and the Af-Pak region. Below are some of my writings.
+> Now and then, I will write about topics pertaining to economic development and the Af-Pak region. Below are some of my writings.
 
 <h4> <a href='http://nytweekly.com/columns/intelarchives/08-23-13/' target='_blank'>New York Times</a> <br />
 
