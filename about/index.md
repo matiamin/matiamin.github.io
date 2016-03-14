@@ -23,7 +23,7 @@ MEAN Stack | Ruby | JavaScript | Ruby on Rails | jQuery | Sinatra | JSON | AJAX 
 <hr>
 <strong> Management & Deployment:</strong>  	CLI | Git | Github | RSpec | Jasmine | Heroku  
 <hr>
-<strong> Foreign Languages:</strong>  Pashto | Urdu | Hindi | Proficiency in Persian | Basic Arabic
+<strong> Foreign Languages:</strong>  Pashto | Urdu | Hindi | Proficiency in Persian 
 
 </p>
 
