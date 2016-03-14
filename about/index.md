@@ -10,11 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a full-stack developer with an entrepreneurial spirit and background in economics. I am a firm believer in the power of technology to build impactful products.
-<h3> Resume:
-<a href="/images/resume.pdf">click to view</a>
-</h3>
-<h3> Technologies I know: </h3>
+I am financial controller and a full-stack developer with an entrepreneurial spirit and background in economics.
 <p>
 <strong> Languages & Frameworks:</strong>
 MEAN Stack | Ruby | JavaScript | Ruby on Rails | jQuery | Sinatra | JSON | AJAX | API Integration | HTML5 | CSS3 | Boostrap | ActiveRecord ORM
