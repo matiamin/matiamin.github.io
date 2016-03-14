@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a financial advisor and a full-stack developer with an entrepreneurial spirit and background in economics.
+I am a financial controller at a private foundation and a full-stack developer with an entrepreneurial spirit and background in economics.
 
 <h3> Technologies I know: </h3>
 <p>
